@@ -1,4 +1,6 @@
 🍽️ Online Canteen Management System
+
+
 A comprehensive Django-based web application designed to streamline the canteen ordering process for college students. This system provides a user-friendly interface for students to browse menus, place orders, and manage their canteen experience seamlessly.
 
 📋 Project Overview

@@ -10,7 +10,7 @@ The Online Canteen Management System is built to solve the common challenges fac
 
 
 
-https://github.com/user-attachments/assets/5e1e188a-19c6-42b7-b4b8-4508fc269a59
+//https://github.com/user-attachments/assets/5e1e188a-19c6-42b7-b4b8-4508fc269a59
 
 
 

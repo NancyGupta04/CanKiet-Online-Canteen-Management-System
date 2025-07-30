@@ -50,4 +50,3 @@ The Online Canteen Management System is built to solve the common challenges fac
 5. **Make Payment**: Payments as of now are enabled through razorpay test api
 
 
-**Built with ❤️ using Django | Enhancing the college canteen experience for students**
